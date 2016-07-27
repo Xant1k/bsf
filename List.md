@@ -14,8 +14,8 @@
 - Putty — SSH туннель;
 - Cygwin https://www.cygwin.com/ —
 - Open VPN
-- Git bash https://git-for-windows.github.io/ — git command line interface for Windows;
-- Virtual Box, VMware - виртуальные машины для запуска различных ОС;
+- Git bash https://git-for-windows.github.io/
+- Virtual Box, VMware — виртуальные машины для запуска различных ОС;
 - Privoxy
 - Visual Code — редактор кода;
 
@@ -24,7 +24,7 @@
 
 - Pidgin
 - Proxychains
-- Polipo - туннель для http proxy;
+- Polipo — туннель для http proxy;
 - Terminator;
 - Xdm http://xdman.sourceforge.net/
 - Conky, Docky
@@ -44,30 +44,15 @@
 
 # **Android applications**
 
-- OpenVPN Connect - connect to VPN from your phone
-- CamScanner - Take photos of documents and save them as pdfs
-- Merriam-webster - offline dictionary
-- Hooks - Notification alerts for various events like sports, youtube, tv shows, earthquakes, scores etc.
-- KingRoot - root your phone(at your own risk).
-- Google Keep - Write, manage and sync notes
-- Define - word meanings from any app
-- Dropbox, Mega - Cloud storage services
-- JotterPad - for writing in markdown, with dropbox support
-- Airdroid, WiFi File Transfer - sync between phone and laptop.
-- Greenify - resource manager for Android.
-- ShareIt, Xander - File sharing service.
-- MusicX - The best music player. Album arts, synced lyrics
-- Psiphon - Painless VPN client
-- Forkhub - Your git repos on your phone
-- Termux - Terminal emulator and Linux environment for Android
-- LIfe360 - Locate your family and friends using GPS
-- AdAway - Block most of Ads on your phone
+- OpenVPN Connect
+- Psiphon — VPN client
+- AdAway
 
 
 # **Сайты**
 
-- https://www.seedr.cc/ и https://bitport.io/ облачные хранилища позволяющие загружать торренты до 2Гб.
+- https://www.seedr.cc/ и https://bitport.io/ — облачные хранилища позволяющие загружать торренты до 2Гб.
 - https://10minutemail.com/ — временная почта;
-- SecurityKiss.com — ;
-- http://hastebin.com/ — ;
+- https://securitykiss.com/
+- http://hastebin.com/
 - https://volafile.io/
