@@ -3,49 +3,43 @@
 - Opera
 - MPC-HC (Media Player Classic Home Cinema) — мультимедийный плеер;
 - Notepad — текстовый редактор;
-- ShareX — программа для захвата изображений рабочего стола, создания gif, запись экрана и многое другое;
+- ShareX — программа для захвата изображений рабочего стола, записи экрана, создания gif-анимаций и многое другое;
 - uTorrent
 - Foobar2000 — аудио плеер;
-- Word
-- Excel
-- PowerPoint
+- Microsoft Office
 - Google Drive
 - Mega
 - Dr. Web — антивирус:
 - Firefox
-- Putty - ssh tunnelling in windows.
-- Cygwin - Linux like environment for windows
-- Bitvise SSH server - Create free SSH server
+- Putty — SSH туннель;
+- Cygwin https://www.cygwin.com/ —
 - Open VPN
-- Git bash - git command line interface for Windows
-- Virtual Box, VMware - run different OS in windows.
-- Proxyfire
-- Privoxy - Routing everything via tor Saavn,Gaana , Elpis, Audials - Songs related apps
-- Visual Code - Code editor
+- Git bash https://git-for-windows.github.io/ — git command line interface for Windows;
+- Virtual Box, VMware - виртуальные машины для запуска различных ОС;
+- Privoxy
+- Visual Code — редактор кода;
 
 
 # **Linux**
 
-- Pidgin - Chat client
-- Proxychains - work behind proxy easily4. Polipo - tunnel to http proxy
-- Terminator - advanced linux terminal
-- Xdm - Xtreme Download Manager like IDM but free.
-- Conky, Docky - Lightweight system monitor and dock
-- Gimp - photo editing software in linux.
-- Tor Browser - Anonymous web browsing, bypass proxy.11. Sublime, Atom, VS Code editor
-- Wine - open windows files and softwares in linux
-- SSH shuttle - no proxy SSH tunneling
-- Privoxy - Routing everything via tor
-- Virtual Box - run another OS within a OS
-- MegaSync - Mega client to sync files with MEGA cloud storage24. Byobu / tmux - Terminal multiplexers
-- Gparted - Partition editor for graphically managing your disk partition
-- Samba - sharing files/folder in linux
-- Variety - automatically change wallpapers for linux. The source of wallpapers can be customized.
-- Crontab: Scheduling events
-- Kodi - Complete home theater solution
-- gnome-tweak-tool - Tweak gnome
-- Screen - used on a remote server to create multiple terminals
-- Easy Stroke Gesture recorder - control your desktop using mouse gestures
+- Pidgin
+- Proxychains
+- Polipo - туннель для http proxy;
+- Terminator;
+- Xdm http://xdman.sourceforge.net/
+- Conky, Docky
+- Gimp
+- Tor Browser
+- Wine
+- Privoxy — маршрутизация через Tor;
+- Virtual Box
+- MegaSync — клиент для синхронизаций файлов и папок с облачным хранилищем mega.co.nz;
+- Gparted
+- Samba
+- Crontab
+- Kodi
+- gnome-tweak-tool
+- Screen
 
 
 # **Android applications**
