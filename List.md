@@ -42,7 +42,7 @@
 - Screen
 
 
-# **Android applications**
+# **Android**
 
 - OpenVPN Connect
 - Psiphon — VPN client
